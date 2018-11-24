@@ -71,7 +71,7 @@
     "karma-safari-launcher": "^1.0.0",
     "mkdirp": "^0.5.1",
     "node-static": "^0.7.9",
-    "npm-run-all": "^4.0.2",
+    "npm-run-all": "^4.1.4",
     "qunitjs": "^1.21.0",
     "rimraf": "^2.6.1",
     "rollup": "^0.51.0",
